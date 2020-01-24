@@ -1,5 +1,6 @@
 {
     "scripts": {
-        "build": "node build.js build"
+        "build": "node build.js build",
+        "now-build": "node build.js now-build"
     }
 }
